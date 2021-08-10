@@ -4,3 +4,4 @@ In this competition, we had to predict the runs scored by the batting team after
 I used linear regression model algorithm to predict the score. 
 My overall rank in this compition is 103.
 For more detials for the compition please go to the link: https://internalapp.nptel.ac.in/contest/contest_details.html
+[IPL-Score-prediction-main.zip](https://github.com/7Nands/Score-Prediction/files/6962755/IPL-Score-prediction-main.zip)
